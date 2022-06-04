@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unknown-bot-sus&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-bot-sus&lang_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-bot-sus&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Unknown-bot-sus/Unknown-bot-sus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
