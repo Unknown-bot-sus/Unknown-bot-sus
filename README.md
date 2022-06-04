@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I am currently working as Full Stack dev in various projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unknown-bot-sus&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unknown-bot-sus&show_icons=true&count_private=true)
 
 <!--
 **Unknown-bot-sus/Unknown-bot-sus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
